@@ -9,3 +9,6 @@ lib/
 .yalc
 yalc.lock
 .env
+
+
+.nx/cache
